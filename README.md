@@ -28,6 +28,9 @@ Estos son las dependencias que se van a instalar :
 * php-xml
 * php-gd
 
+# Instalación phpmyadmin
+Cuándo te pregunte por crear una base de datos en la instalación de phpmyadmin selecciona No.
+
 Cúando te pregunte si quieres cambiar la contraseña del usuario root elige la opción S, para que la base de datos de multicraft se instale correctamente.
 
-## Pronto haré el script para desinstalar multicrafr
+## Pronto haré el script para desinstalar multicraft
