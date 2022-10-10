@@ -17,9 +17,6 @@ instalarDependencias() {
 
 
 
-# mysql -u root -Bse "CREATE DATAB"
-
-
 read -p "¿Deseas continuar con la instalación de multicraft? [S/n]" answer
 
 case $answer in
