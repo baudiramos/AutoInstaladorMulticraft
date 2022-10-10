@@ -31,6 +31,6 @@ Estos son las dependencias que se van a instalar :
 # Instalación phpmyadmin
 Cuándo te pregunte por crear una base de datos en la instalación de phpmyadmin selecciona No.
 
-Cúando te pregunte si quieres cambiar la contraseña del usuario root elige la opción S, para que la base de datos de multicraft se instale correctamente.
+Cúando te pregunte si quieres cambiar la contraseña del usuario root elige la opción S y escribe tu contraseña para el usuario root, porque luego con ese usuario se creará el usuario multicraft en la base de datos
 
 ## Pronto haré el script para desinstalar multicraft
