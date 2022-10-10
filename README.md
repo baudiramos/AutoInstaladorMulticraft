@@ -3,7 +3,7 @@ Este es un script que te instala multicraft con sus dependencias
 
 ## Este script solo tiene soporte para Debian 9
 
-Una vez descargado, accedemos como root usando !Importante!!¡:
+{ !Importante!!¡ } Una vez descargado, accedemos como root usando : 
 
 > sudo su
 
